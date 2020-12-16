@@ -1,6 +1,7 @@
 # scrape-stock-price
-> Scraping Stock Price from finance.yahoo.
 
-> All instructions are given in notebook.
+- Scraping Stock Price from finance.yahoo.
 
-> csv file is just given as example.
+- All instructions are given in notebook.
+
+- csv file is just given as example.
